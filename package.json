@@ -7,9 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Solomon Chidera Oyoke",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "@discordjs/voice": "^0.16.1",
+    "bufferutil": "^4.0.8",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "utf-8-validate": "^6.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
   }
 }
