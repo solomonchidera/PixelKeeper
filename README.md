@@ -3,8 +3,6 @@
 **Brief Description:**
 * Keep your Discord server safe and welcoming. Powerful moderation tools, customizable features, and a sprinkle of fun!. 
 
-**Setup and Installation**
-
 **Prerequisites**
 * List of all necessary dependencies we're using for the bot:
     * Node.js (v16 or higher)
