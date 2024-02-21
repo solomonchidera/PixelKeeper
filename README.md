@@ -10,6 +10,9 @@
 
 **What Next**
 * Bot is stiill under development and testing stage
+
+**Contribution**
+This project welcomes contributions and suggestions.
 * If you wish to contibute to this project:
     * You can join my discord server [ctrl + click Here](<https://discord.gg/Tr3cNVe7PE>)
     * Create an issue [Here](<https://github.com/SolomonChidera/PixelKeeper/issues>)
