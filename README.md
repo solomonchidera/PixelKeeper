@@ -6,7 +6,7 @@
 **Setup and Installation**
 
 **Prerequisites**
-* List of all necessary dependencies we'r using for the bot:
+* List of all necessary dependencies we're using for the bot:
     * Node.js (v16 or higher)
     * Discord.js (v14)
 
