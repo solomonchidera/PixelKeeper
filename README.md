@@ -15,6 +15,7 @@
 This project welcomes contributions and suggestions.
 * If you wish to contibute to this project:
     * You can join my discord server [ctrl + click Here](<https://discord.gg/Tr3cNVe7PE>)
+    * Send me a friend request on discord ==> [solochidera](<https://discord.com/users/1052162509567692800>)
     * Create an issue [Here](<https://github.com/SolomonChidera/PixelKeeper/issues>)
     * You can also reach out to me on [Twitter](<https://twitter.com/solomonchidera_>)
 
