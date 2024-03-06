@@ -19,6 +19,7 @@ This project welcomes contributions and suggestions.
     * Create an issue [Here](<https://github.com/SolomonChidera/PixelKeeper/issues>)
     * You can also reach out to me on [Twitter](<https://twitter.com/solomonchidera_>)
 
+XD
 **Usage**
 * Usage and the abilities of the bot will be updated here as we make progress
 
